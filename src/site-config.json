@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "DAC - Landscape San Francisco",
+    "phone": "+14155168884",
+    "category": "landscaping company",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Francisco's Trusted Landscapers",
+      "heroSubline": "DAC - Landscape San Francisco delivers expert landscaping services. Transforming outdoor spaces with precision and care since 2012.",
+      "aboutTitle": "Crafting San Francisco's Landscapes Since 2012",
+      "aboutText": [
+        "DAC - Landscape San Francisco started with a simple goal: to bring exceptional landscaping services to the unique properties of San Francisco. We understood the challenges of the local climate, from the coastal fog to the occasional heat spikes, and the impact on gardens and landscapes. Our founder, a San Francisco native, built this company on a foundation of local knowledge and a passion for creating beautiful, sustainable outdoor spaces.",
+        "Our approach is rooted in collaboration and meticulous planning. We work closely with our clients to understand their vision, assess their property's specific needs, and develop a customized landscaping plan that maximizes beauty and functionality. We value open communication, transparency, and a commitment to exceeding expectations on every project.",
+        "We're proud to be a part of the San Francisco community. We actively support local initiatives focused on environmental sustainability and community beautification. We believe that beautiful landscapes contribute to a thriving city, and we're dedicated to doing our part to make San Francisco an even better place to live."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of San Francisco's unique climate and soil conditions."
+        },
+        {
+          "title": "Customized Designs",
+          "description": "Landscaping plans tailored to your specific property and preferences."
+        },
+        {
+          "title": "Sustainable Practices",
+          "description": "Environmentally friendly methods that minimize water waste and promote healthy plant growth."
+        },
+        {
+          "title": "Experienced Team",
+          "description": "Skilled professionals dedicated to delivering exceptional results."
+        }
+      ],
+      "ctaHeadline": "Transform Your Outdoor Space Today!",
+      "ctaSubline": "Contact DAC - Landscape San Francisco for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "landscape-design",
+        "name": "Landscape Design",
+        "shortDescription": "Transform your vision into reality with our expert landscape design services.",
+        "description": "Our landscape design service starts with a thorough consultation to understand your goals, preferences, and budget. We consider the unique characteristics of your property, including its size, shape, soil type, and sun exposure. We then develop a customized design plan that incorporates your desired features, such as patios, walkways, gardens, and water features. \n\n We use advanced design software to create 3D renderings of your proposed landscape, allowing you to visualize the finished product before construction begins. Our team of experienced designers will guide you through the selection of plants, materials, and finishes to ensure that your landscape is both beautiful and functional. We also provide detailed construction documents to ensure that the project is executed according to plan.\n\n Whether you're looking to create a relaxing backyard oasis or a stunning front yard that enhances your curb appeal, our landscape design service can help you achieve your goals. We are committed to creating sustainable landscapes that are both beautiful and environmentally friendly. We offer a wide range of design styles to suit your taste, from traditional to contemporary.",
+        "process": [
+          "Step 1: Initial Consultation",
+          "Step 2: Site Assessment and Analysis",
+          "Step 3: Design Development and Presentation",
+          "Step 4: Construction Documentation and Permitting"
+        ],
+        "benefits": [
+          "Enhanced Property Value",
+          "Improved Curb Appeal",
+          "Increased Outdoor Living Space",
+          "Sustainable Landscape Design"
+        ],
+        "faq": [
+          {
+            "question": "How much does landscape design cost?",
+            "answer": "The cost of landscape design varies depending on the size and complexity of the project. We offer free consultations and estimates to provide you with a clear understanding of the costs involved."
+          },
+          {
+            "question": "How long does the design process take?",
+            "answer": "The design process typically takes 2-4 weeks, depending on the complexity of the project. We work closely with our clients to ensure that the design meets their needs and expectations."
+          },
+          {
+            "question": "Do you offer maintenance services after the design is complete?",
+            "answer": "Yes, we offer a full range of maintenance services to keep your landscape looking its best. We can provide regular lawn care, pruning, fertilization, and pest control."
+          }
+        ]
+      },
+      {
+        "slug": "lawn-care-maintenance",
+        "name": "Lawn Care & Maintenance",
+        "shortDescription": "Keep your lawn lush and healthy with our comprehensive lawn care services.",
+        "description": "Our lawn care and maintenance service is designed to keep your lawn looking its best year-round. We offer a full range of services, including mowing, edging, fertilization, weed control, aeration, and overseeding. We use high-quality equipment and products to ensure that your lawn receives the best possible care. \n\n We understand that every lawn is different, so we tailor our services to meet your specific needs. We consider factors such as grass type, soil conditions, and climate when developing a customized lawn care plan. Our team of experienced professionals will work with you to create a lawn that is both beautiful and healthy.\n\n In San Francisco, maintaining a lawn can be tricky due to the microclimates and occasional droughts. We specialize in drought-tolerant landscaping and efficient irrigation solutions. Whether you're dealing with a small backyard in the Mission District or a larger property in Pacific Heights, we've got you covered.",
+        "process": [
+          "Step 1: Lawn Assessment and Analysis",
+          "Step 2: Customized Lawn Care Plan",
+          "Step 3: Regular Mowing and Edging",
+          "Step 4: Fertilization and Weed Control"
+        ],
+        "benefits": [
+          "Healthy and Lush Lawn",
+          "Improved Curb Appeal",
+          "Reduced Weed Growth",
+          "Expert Lawn Care Advice"
+        ],
+        "faq": [
+          {
+            "question": "How often should I mow my lawn?",
+            "answer": "The frequency of mowing depends on the type of grass and the time of year. We recommend mowing your lawn once a week during the growing season and less frequently during the dormant season."
+          },
+          {
+            "question": "What type of fertilizer should I use?",
+            "answer": "The type of fertilizer you should use depends on the type of grass and the soil conditions. We can recommend the best fertilizer for your lawn based on our assessment."
+          },
+          {
+            "question": "How can I prevent weeds from growing in my lawn?",
+            "answer": "Weeds can be prevented by maintaining a healthy lawn and using pre-emergent herbicides. We can provide weed control services to keep your lawn weed-free."
+          }
+        ]
+      },
+      {
+        "slug": "irrigation-systems",
+        "name": "Irrigation Systems",
+        "shortDescription": "Efficient watering solutions that save water and keep your landscape thriving.",
+        "description": "Proper irrigation is crucial for maintaining a healthy landscape in San Francisco's variable climate. Our irrigation system services include design, installation, repair, and maintenance of sprinkler systems, drip irrigation, and smart controllers. We assess your property's water needs and design a system that delivers the right amount of water to each plant, minimizing water waste and maximizing efficiency.\n\n We use high-quality components from leading manufacturers to ensure that your irrigation system is reliable and durable. Our team of experienced technicians can handle any irrigation system issue, from leaks and broken sprinklers to clogged emitters and malfunctioning controllers. We also offer regular maintenance services to keep your system running smoothly and prevent costly repairs.\n\n San Francisco properties, especially those on hillsides, benefit from efficient irrigation. We adapt to the unique challenges of the area, ensuring even water distribution and preventing runoff. Upgrade to a smart irrigation system to save water and money.",
+        "process": [
+          "Step 1: Water Audit and System Design",
+          "Step 2: System Installation and Testing",
+          "Step 3: System Programming and Optimization",
+          "Step 4: Regular Maintenance and Repair"
+        ],
+        "benefits": [
+          "Water Conservation",
+          "Healthy Plant Growth",
+          "Reduced Water Bills",
+          "Automated Watering Schedules"
+        ],
+        "faq": [
+          {
+            "question": "How can I save water with my irrigation system?",
+            "answer": "You can save water by using a smart controller, installing drip irrigation, and adjusting your watering schedule based on the weather. We can help you optimize your irrigation system to minimize water waste."
+          },
+          {
+            "question": "How often should I have my irrigation system serviced?",
+            "answer": "We recommend having your irrigation system serviced at least once a year to ensure that it is running properly. We can provide a comprehensive inspection and tune-up to keep your system in top condition."
+          },
+          {
+            "question": "What are the benefits of a smart irrigation controller?",
+            "answer": "Smart irrigation controllers use weather data and soil moisture sensors to automatically adjust your watering schedule, saving water and preventing overwatering. They can also be controlled remotely using a smartphone or tablet."
+          }
+        ]
+      },
+      {
+        "slug": "hardscaping",
+        "name": "Hardscaping",
+        "shortDescription": "Create stunning outdoor living spaces with our expert hardscaping services.",
+        "description": "Hardscaping refers to the non-living elements of your landscape, such as patios, walkways, retaining walls, and outdoor kitchens. Our hardscaping services are designed to create beautiful and functional outdoor living spaces that enhance your property's value and enjoyment. We use high-quality materials and expert craftsmanship to ensure that your hardscaping features are durable and long-lasting.\n\n We work closely with our clients to design hardscaping features that complement their existing landscape and meet their specific needs. Whether you're looking to create a cozy patio for entertaining or a functional retaining wall to prevent erosion, we can help you achieve your goals. Our team of experienced professionals will guide you through the selection of materials, colors, and textures to ensure that your hardscaping features are both beautiful and functional.\n\n San Francisco's hilly terrain often requires creative hardscaping solutions. We are adept at building retaining walls, terraces, and other features that maximize usable space and prevent erosion. From North Beach to the Sunset District, we transform outdoor areas into stunning extensions of homes.",
+        "process": [
+          "Step 1: Site Assessment and Design",
+          "Step 2: Material Selection and Procurement",
+          "Step 3: Construction and Installation",
+          "Step 4: Finishing and Sealing"
+        ],
+        "benefits": [
+          "Increased Property Value",
+          "Enhanced Outdoor Living Space",
+          "Improved Functionality",
+          "Durable and Long-Lasting Features"
+        ],
+        "faq": [
+          {
+            "question": "What types of materials do you use for hardscaping?",
+            "answer": "We use a variety of materials for hardscaping, including concrete pavers, natural stone, brick, and wood. We can help you select the best materials for your project based on your budget and design preferences."
+          },
+          {
+            "question": "How long does it take to install a patio?",
+            "answer": "The time it takes to install a patio depends on the size and complexity of the project. A typical patio can be installed in 1-2 weeks."
+          },
+          {
+            "question": "Do I need a permit for hardscaping?",
+            "answer": "Permit requirements vary depending on the scope of the project and local regulations. We can help you determine whether a permit is required and assist you with the application process."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-lighting",
+        "name": "Outdoor Lighting",
+        "shortDescription": "Enhance the beauty and safety of your property with our professional outdoor lighting services.",
+        "description": "Outdoor lighting can dramatically enhance the beauty and functionality of your landscape. Our outdoor lighting services include design, installation, repair, and maintenance of landscape lighting systems. We use high-quality fixtures and energy-efficient LED bulbs to create a warm and inviting atmosphere while minimizing energy consumption.\n\n We work closely with our clients to design lighting systems that highlight their landscape's best features and provide security and safety. Whether you're looking to illuminate pathways, patios, or architectural features, we can help you achieve your goals. Our team of experienced professionals will guide you through the selection of fixtures, colors, and lighting techniques to ensure that your outdoor lighting system is both beautiful and functional.\n\n San Francisco evenings are often cool and foggy, making outdoor lighting essential. We understand the local conditions and recommend fixtures that withstand the elements. From Fisherman's Wharf to Golden Gate Park, we create stunning outdoor lighting designs that enhance the charm of San Francisco homes.",
+        "process": [
+          "Step 1: Lighting Design and Planning",
+          "Step 2: Fixture Selection and Placement",
+          "Step 3: System Installation and Wiring",
+          "Step 4: Programming and Adjustment"
+        ],
+        "benefits": [
+          "Enhanced Security and Safety",
+          "Increased Property Value",
+          "Extended Outdoor Living Space",
+          "Energy-Efficient Lighting Solutions"
+        ],
+        "faq": [
+          {
+            "question": "What type of lighting fixtures do you use?",
+            "answer": "We use a variety of lighting fixtures, including LED spotlights, path lights, and floodlights. We can help you select the best fixtures for your project based on your budget and design preferences."
+          },
+          {
+            "question": "How much does it cost to install outdoor lighting?",
+            "answer": "The cost of installing outdoor lighting depends on the size and complexity of the project. We offer free consultations and estimates to provide you with a clear understanding of the costs involved."
+          },
+          {
+            "question": "How can I save energy with outdoor lighting?",
+            "answer": "You can save energy by using LED bulbs, installing a timer, and using motion sensors. We can help you design an energy-efficient outdoor lighting system that meets your needs."
+          }
+        ]
+      },
+      {
+        "slug": "tree-services",
+        "name": "Tree Services",
+        "shortDescription": "Keep your trees healthy and beautiful with our professional tree care services.",
+        "description": "Our tree services include tree trimming, pruning, removal, and planting. We have certified arborists on staff who are experts in tree care and maintenance. We use safe and efficient techniques to ensure that your trees are healthy and beautiful.\n\n We work closely with our clients to assess their tree care needs and develop a customized plan that meets their specific goals. Whether you're looking to improve the health of your trees, remove a hazardous tree, or plant new trees, we can help you achieve your goals. Our team of experienced professionals will guide you through the process and ensure that your trees receive the best possible care.\n\n San Francisco's diverse tree population requires specialized care. We understand the unique needs of local trees, from the iconic Monterey Cypress to the towering Eucalyptus. We adhere to all local regulations and ensure that tree work is performed safely and responsibly.",
+        "process": [
+          "Step 1: Tree Assessment and Consultation",
+          "Step 2: Pruning and Trimming",
+          "Step 3: Tree Removal (if necessary)",
+          "Step 4: Stump Grinding and Cleanup"
+        ],
+        "benefits": [
+          "Improved Tree Health",
+          "Enhanced Safety",
+          "Increased Property Value",
+          "Professional Tree Care Advice"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my trees trimmed?",
+            "answer": "The frequency of tree trimming depends on the type of tree and its growth rate. We recommend having your trees trimmed every 1-3 years."
+          },
+          {
+            "question": "How do I know if a tree needs to be removed?",
+            "answer": "A tree may need to be removed if it is dead, diseased, or poses a safety hazard. We can assess your trees and recommend the best course of action."
+          },
+          {
+            "question": "Do I need a permit to remove a tree?",
+            "answer": "Permit requirements vary depending on the size and location of the tree. We can help you determine whether a permit is required and assist you with the application process."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Francisco",
+        "slug": "san-francisco-ca",
+        "state": "CA",
+        "content": "DAC - Landscape San Francisco is proud to offer premier landscaping services to the residents and businesses of San Francisco. From the iconic Golden Gate Bridge to the vibrant neighborhoods of North Beach and the Mission District, we understand the unique aesthetic and environmental needs of this dynamic city. Our team is dedicated to creating and maintaining beautiful outdoor spaces that enhance the San Francisco lifestyle.\n\nWe offer a full range of landscaping services, including design, installation, maintenance, and irrigation. Whether you're looking to create a stunning garden oasis in your backyard or need professional maintenance for your commercial property, DAC - Landscape San Francisco has the expertise and experience to exceed your expectations. We are committed to providing exceptional service and creating landscapes that thrive in San Francisco's diverse microclimates.",
+        "localContext": "San Francisco's unique blend of urban energy and natural beauty requires a landscaping approach that is both sophisticated and sustainable, considering the city's distinct microclimates and commitment to environmental responsibility.",
+        "nearbyAreas": [
+          "Oakland",
+          "Berkeley",
+          "Sausalito"
+        ]
+      },
+      {
+        "city": "Oakland",
+        "slug": "oakland-ca",
+        "state": "CA",
+        "content": "DAC - Landscape San Francisco extends its exceptional landscaping services to the vibrant city of Oakland. Known for its diverse culture, thriving arts scene, and beautiful waterfront, Oakland presents unique opportunities for creating stunning outdoor spaces. We offer a comprehensive range of landscaping services tailored to meet the specific needs of Oakland residents and businesses.\n\nFrom designing lush gardens in the hills to maintaining pristine lawns in the flats, our team is dedicated to providing top-quality landscaping solutions that enhance the beauty and value of your property. We understand the importance of sustainable practices and utilize eco-friendly methods to ensure the health and longevity of your landscape. Let DAC - Landscape San Francisco transform your outdoor space into a welcoming oasis.",
+        "localContext": "Oakland's diverse neighborhoods and microclimates demand a tailored landscaping approach that considers both aesthetic preferences and environmental sustainability, reflecting the city's commitment to green living.",
+        "nearbyAreas": [
+          "Berkeley",
+          "Alameda",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Berkeley",
+        "slug": "berkeley-ca",
+        "state": "CA",
+        "content": "DAC - Landscape San Francisco proudly serves the community of Berkeley, offering a full suite of landscaping services tailored to the unique needs of this vibrant city. From the historic UC Berkeley campus to the charming residential neighborhoods, we understand the importance of creating beautiful and sustainable outdoor spaces.\n\nWe specialize in landscape design, installation, and maintenance, using eco-friendly practices to ensure the health and longevity of your landscape. Whether you're looking to create a drought-tolerant garden or need regular lawn care services, DAC - Landscape San Francisco is committed to providing exceptional service and exceeding your expectations. Let us help you transform your outdoor space into a welcoming and sustainable oasis.",
+        "localContext": "Berkeley's commitment to environmental sustainability and innovative design requires a landscaping approach that prioritizes eco-friendly practices and reflects the city's unique character.",
+        "nearbyAreas": [
+          "Oakland",
+          "Albany",
+          "Emeryville"
+        ]
+      },
+      {
+        "city": "Sausalito",
+        "slug": "sausalito-ca",
+        "state": "CA",
+        "content": "DAC - Landscape San Francisco is delighted to provide professional landscaping services to the beautiful waterfront community of Sausalito. With its stunning views of the San Francisco skyline and its charming Mediterranean-inspired architecture, Sausalito offers a unique setting for creating breathtaking outdoor spaces. We are dedicated to helping residents and businesses enhance their properties with our comprehensive landscaping solutions.\n\nOur services include landscape design, installation, maintenance, and irrigation, all tailored to the specific needs of the Sausalito climate and aesthetic. Whether you're looking to create a vibrant garden overlooking the bay or need regular maintenance for your commercial property, DAC - Landscape San Francisco has the expertise and experience to deliver exceptional results. We are committed to providing top-quality service and creating landscapes that thrive in this idyllic setting.",
+        "localContext": "Sausalito's stunning waterfront location and Mediterranean-inspired architecture call for a landscaping approach that complements the natural beauty of the area while considering the challenges of coastal conditions.",
+        "nearbyAreas": [
+          "Mill Valley",
+          "Tiburon",
+          "San Francisco"
+        ]
+      },
+      {
+        "city": "Mill Valley",
+        "slug": "mill-valley-ca",
+        "state": "CA",
+        "content": "DAC - Landscape San Francisco extends its expert landscaping services to the picturesque town of Mill Valley. Nestled among redwood forests and rolling hills, Mill Valley offers a unique blend of natural beauty and sophisticated living. We are committed to helping residents and businesses create and maintain stunning outdoor spaces that complement this idyllic setting.\n\nOur services include landscape design, installation, maintenance, and irrigation, all tailored to the specific needs of the Mill Valley climate and aesthetic. Whether you're looking to create a serene garden retreat or need regular maintenance for your property, DAC - Landscape San Francisco has the expertise and experience to deliver exceptional results. We prioritize sustainable practices and utilize eco-friendly methods to ensure the health and longevity of your landscape.",
+        "localContext": "Mill Valley's redwood forests and hillside landscapes require a landscaping approach that respects the natural environment while creating functional and aesthetically pleasing outdoor spaces.",
+        "nearbyAreas": [
+          "Sausalito",
+          "Tiburon",
+          "San Rafael"
+        ]
+      },
+      {
+        "city": "Tiburon",
+        "slug": "tiburon-ca",
+        "state": "CA",
+        "content": "DAC - Landscape San Francisco proudly serves the residents and businesses of Tiburon, offering a comprehensive range of landscaping services tailored to this beautiful bayside community. With its stunning views of the San Francisco skyline and its charming residential neighborhoods, Tiburon presents unique opportunities for creating breathtaking outdoor spaces.\n\nOur services include landscape design, installation, maintenance, and irrigation, all tailored to the specific needs of the Tiburon climate and aesthetic. Whether you're looking to create a vibrant garden overlooking the bay or need regular maintenance for your commercial property, DAC - Landscape San Francisco has the expertise and experience to deliver exceptional results. We are committed to providing top-quality service and creating landscapes that thrive in this idyllic setting.",
+        "localContext": "Tiburon's bayfront location and upscale residential areas require a landscaping approach that emphasizes elegance, functionality, and sustainable practices, enhancing the natural beauty of the area.",
+        "nearbyAreas": [
+          "Belvedere",
+          "Sausalito",
+          "Mill Valley"
+        ]
+      },
+      {
+        "city": "Alameda",
+        "slug": "alameda-ca",
+        "state": "CA",
+        "content": "DAC - Landscape San Francisco is pleased to offer professional landscaping services to the city of Alameda. Known for its historic architecture, tree-lined streets, and family-friendly atmosphere, Alameda provides a unique setting for creating beautiful and welcoming outdoor spaces. We are dedicated to helping residents and businesses enhance their properties with our comprehensive landscaping solutions.\n\nOur services include landscape design, installation, maintenance, and irrigation, all tailored to the specific needs of the Alameda climate and aesthetic. Whether you're looking to create a charming garden or need regular maintenance for your lawn, DAC - Landscape San Francisco has the expertise and experience to deliver exceptional results. We are committed to providing top-quality service and creating landscapes that thrive in this vibrant community.",
+        "localContext": "Alameda's historic architecture and family-friendly atmosphere call for a landscaping approach that blends traditional aesthetics with modern functionality, creating welcoming and sustainable outdoor spaces.",
+        "nearbyAreas": [
+          "Oakland",
+          "San Leandro",
+          "Hayward"
+        ]
+      },
+      {
+        "city": "San Bruno",
+        "slug": "san-bruno-ca",
+        "state": "CA",
+        "content": "DAC - Landscape San Francisco proudly extends its landscaping services to San Bruno, CA. We understand the importance of well-maintained outdoor spaces for both residential and commercial properties. Our team is dedicated to providing top-notch landscaping solutions tailored to the unique needs of San Bruno's climate and community.\n\nFrom landscape design and installation to routine maintenance and irrigation, we offer a comprehensive range of services to enhance your property's curb appeal and functionality. We are committed to using sustainable practices and eco-friendly products to ensure the health and beauty of your landscape. Let DAC - Landscape San Francisco transform your outdoor space into a vibrant and inviting environment.",
+        "localContext": "San Bruno's location near the San Francisco International Airport and its mix of residential and commercial areas require a landscaping approach that balances aesthetic appeal with practicality and sustainability.",
+        "nearbyAreas": [
+          "South San Francisco",
+          "Daly City",
+          "Millbrae"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Landscape Design",
+        "text": "DAC - Landscape San Francisco completely transformed our backyard! We had a small, unusable space, and they turned it into a beautiful oasis with a new patio, garden, and lighting. The design process was collaborative, and the team was professional and responsive. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Lawn Care & Maintenance",
+        "text": "We've been using DAC - Landscape San Francisco for our lawn care for the past year, and our lawn has never looked better! They are reliable, efficient, and always do a great job. They even helped us with a weed problem we were struggling with.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 5,
+        "service": "Irrigation Systems",
+        "text": "DAC - Landscape San Francisco installed a new drip irrigation system for our garden, and it has made a huge difference! Our plants are thriving, and we're saving water. The installation was quick and professional, and the team was very knowledgeable.",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "John M.",
+        "rating": 5,
+        "service": "Hardscaping",
+        "text": "DAC - Landscape San Francisco built a beautiful retaining wall in our backyard. The wall is not only functional but also adds a lot of character to our property. The crew was skilled and efficient, and they cleaned up everything after the job was done.",
+        "date": "2024-08-10"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 4,
+        "service": "Outdoor Lighting",
+        "text": "We hired DAC - Landscape San Francisco to install outdoor lighting around our patio, and we are so happy with the results! The lighting creates a warm and inviting atmosphere, and it makes our backyard much safer at night. The team was professional and helpful, and they provided great suggestions.",
+        "date": "2024-06-05"
+      },
+      {
+        "name": "Robert C.",
+        "rating": 5,
+        "service": "Tree Services",
+        "text": "DAC - Landscape San Francisco did an excellent job trimming our trees. They were careful and efficient, and they cleaned up all the debris. Our trees look much healthier now, and we feel safer knowing that they have been properly maintained.",
+        "date": "2024-04-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Landscaping San Francisco | DAC Landscape",
+        "description": "Expert landscaping in San Francisco. Design, lawn care, irrigation, hardscaping & more. Free estimates. Call +14155168884"
+      },
+      "about": {
+        "title": "About DAC Landscape | San Francisco Landscapers",
+        "description": "Learn about DAC Landscape San Francisco's history, values, and commitment to providing exceptional landscaping services."
+      },
+      "services": {
+        "title": "Landscaping Services | DAC Landscape San Francisco",
+        "description": "Comprehensive landscaping services in San Francisco. Landscape design, lawn care, irrigation, hardscaping, outdoor lighting, and tree services."
+      },
+      "contact": {
+        "title": "Contact DAC Landscape | San Francisco CA",
+        "description": "Contact DAC Landscape San Francisco for a free landscaping consultation and estimate. Call +14155168884 or fill out our online form."
+      },
+      "reviews": {
+        "title": "DAC Landscape Reviews | San Francisco CA",
+        "description": "See what our clients are saying about DAC Landscape San Francisco. Read testimonials and reviews for our landscaping services."
+      },
+      "service-areas": {
+        "title": "Service Areas | DAC Landscape San Francisco",
+        "description": "DAC Landscape San Francisco provides landscaping services throughout San Francisco and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "landscape-design": "/images/service-landscape-design.webp",
+      "lawn-care-maintenance": "/images/service-lawn-care-maintenance.webp",
+      "irrigation-systems": "/images/service-irrigation-systems.webp",
+      "hardscaping": "/images/service-hardscaping.webp",
+      "outdoor-lighting": "/images/service-outdoor-lighting.webp",
+      "tree-services": "/images/service-tree-services.webp"
+    },
+    "servicesResponsive": {
+      "landscape-design": {
+        "src": "/images/service-landscape-design.webp",
+        "srcset": "/images/service-landscape-design-400w.webp 400w, /images/service-landscape-design-800w.webp 800w, /images/service-landscape-design-1200w.webp 1200w, /images/service-landscape-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lawn-care-maintenance": {
+        "src": "/images/service-lawn-care-maintenance.webp",
+        "srcset": "/images/service-lawn-care-maintenance-400w.webp 400w, /images/service-lawn-care-maintenance-800w.webp 800w, /images/service-lawn-care-maintenance-1200w.webp 1200w, /images/service-lawn-care-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "irrigation-systems": {
+        "src": "/images/service-irrigation-systems.webp",
+        "srcset": "/images/service-irrigation-systems-400w.webp 400w, /images/service-irrigation-systems-800w.webp 800w, /images/service-irrigation-systems-1200w.webp 1200w, /images/service-irrigation-systems.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardscaping": {
+        "src": "/images/service-hardscaping.webp",
+        "srcset": "/images/service-hardscaping-400w.webp 400w, /images/service-hardscaping-800w.webp 800w, /images/service-hardscaping-1200w.webp 1200w, /images/service-hardscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-lighting": {
+        "src": "/images/service-outdoor-lighting.webp",
+        "srcset": "/images/service-outdoor-lighting-400w.webp 400w, /images/service-outdoor-lighting-800w.webp 800w, /images/service-outdoor-lighting-1200w.webp 1200w, /images/service-outdoor-lighting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-services": {
+        "src": "/images/service-tree-services.webp",
+        "srcset": "/images/service-tree-services-400w.webp 400w, /images/service-tree-services-800w.webp 800w, /images/service-tree-services-1200w.webp 1200w, /images/service-tree-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
